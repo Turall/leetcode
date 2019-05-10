@@ -1,4 +1,4 @@
-    def check(s):
+def check(s):
     if not s:
         return True
     temp = []
