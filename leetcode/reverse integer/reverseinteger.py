@@ -19,5 +19,5 @@ def rev_int(x):
     return temp
 
 
-print(rev_int(22147483412))
+print(rev_int(123))
 
